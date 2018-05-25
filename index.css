@@ -10,14 +10,15 @@
   width: 75px;
   left: 10px;
   position: relative;
-  animation: mymove 5s infinite;
+  animation: hero 5s infinite;
 }
 
-@keyframes mymove {
-    0%   {top: 20px; left: 20px;}
-    20%  {top: 20px; left: 500px;}
-    40%  {top: 200px; left: 500px; transform: rotate(0deg);}
-    60%  {top: 200px; left: 268px; transform: rotate(45deg); border: 1px dashed red;}
-    80%  {top: 200px; left: 20px; border: 1px dashed #0900BD; background: none; border-radius: 0; height: 75px; width: 75px;}
-    100% {top: 445px; left: 445px; border-radius: 100px; background: linear-gradient(#F76B1C, #FBDA61); height: 150px; width: 150px;}
+@keyframes hero {
+    0%      {top: 20px; left: 20px;}
+    29.41%  {top: 20px; left: 500px; delay: 5s;}
+    41.18%  {top: 200px; left: 500px; transform: rotate(0deg); delay: 5s;}
+    44.12%  {top: 200px; left: 270px; transform: rotate(45deg); border: 1px dashed red;}
+    55.18%  {top: 200px; left: 270px; transform: rotate(45deg); border: 1px dashed red;}
+    70.59%  {top: 200px; left: 20px; border: 1px dashed #0900BD; background: none; border-radius: 0; height: 75px; width: 75px;}
+    100%    {top: 443px; left: 443px; border-radius: 100px; background: linear-gradient(#F76B1C, #FBDA61); height: 150px; width: 150px;}
 }
