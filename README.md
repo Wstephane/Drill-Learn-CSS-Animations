@@ -17,10 +17,10 @@ Le but du projet est d'apprendre à faire une animation en CSS.
 
 J'ai appris à :
 
-*Utiliser le @keyframes.
-*Le positionnement de l'animation.
-*Le changements de border et leur taille.
-*Respecter une deadline.
+* Utiliser le @keyframes.
+* Le positionnement de l'animation.
+* Le changements de border et leur taille.
+* Respecter une deadline.
 
 
 ----------------------
