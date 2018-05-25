@@ -15,13 +15,31 @@ Le but du projet est d'apprendre à faire une animation en CSS.
 
 ### Ce que j'ai appris :
 
-J'ai appris à :
+
+J'ai appris en CSS :
 
 * Utiliser le @keyframes.
 * Le positionnement de l'animation.
 * Le changements de border et leur taille.
 * Respecter une deadline.
 
-
 ----------------------
+
+En html :
+
+* Faire attention à la sémantic et à l'indentation.
+
+-----------------------
+
+En Git :
+
+* Continuer prendre de bonne habitude de commit et de branch.
+
+-----------------------
+
+Sur Github :
+
+* Deployer une page via Github.
+
+---------------------------
 
