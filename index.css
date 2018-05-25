@@ -1,7 +1,11 @@
 #stage {
   background-image: url(css_animation_exercise_4.png);
+  background-position: center;
   height: 600px;
   width: 600px;
+  position: relative;
+  margin: auto;
+
 }
 
 #hero {
@@ -15,10 +19,10 @@
 
 @keyframes hero {
     0%      {top: 20px; left: 20px;}
-    29.41%  {top: 20px; left: 500px;}
+    29.41%  {top: 19px; left: 501px;}
     41.18%  {top: 200px; left: 500px; transform: rotate(0deg);}
-    44.12%  {top: 200px; left: 270px; transform: rotate(45deg); border: 1px dashed red;}
-    55.18%  {top: 200px; left: 270px; transform: rotate(45deg); border: 1px dashed red;}
-    70.59%  {top: 200px; left: 20px; border: 1px dashed #0900BD; background: none; border-radius: 0; height: 75px; width: 75px; transform: rotate(0deg);}
+    44.12%  {top: 200px; left: 269px; transform: rotate(46deg); border: 1px dashed red;}
+    55.18%  {top: 200px; left: 269px; transform: rotate(46deg); border: 1px dashed red;}
+    70.59%  {top: 203px; left: 19px; border: 1px dashed #0900BD; background: none; border-radius: 0; height: 75px; width: 75px; transform: rotate(0deg);}
     100%    {top: 443px; left: 443px; border-radius: 100px; background: radial-gradient(#FBDA61, #F76B1C); height: 150px; width: 150px;}
 }
