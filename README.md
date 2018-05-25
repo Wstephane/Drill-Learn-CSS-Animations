@@ -8,12 +8,12 @@ Projet en solo fait par Stéphane Wyns à *BeCode*, en début de formation.
 Projet crée et terminer le le *25/05/18* dans le cadre d'un excercice de *CSS*.
 
 
-##But du projet
+## But du projet
 
 Le but du projet est d'apprendre à faire une animation en CSS.
 
 
-###Ce que j'ai appris :
+### Ce que j'ai appris :
 
 J'ai appris à :
 
