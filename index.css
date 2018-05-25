@@ -1,5 +1,5 @@
 #stage {
-  background-image: url(css_animation_exercise_1.png);
+  background-image: url(css_animation_exercise_4.png);
   height: 600px;
   width: 600px;
 }
@@ -14,6 +14,9 @@
 }
 
 @keyframes mymove {
-    0%   {left: 0px; top: 0px;}
-    100% {left: 525px; top: 0px;}
+    0%   {top: 20px; left: 20px;}
+    25%  {top: 20px; left: 500px;}
+    50%  {top: 200px; left: 500px; transform: rotate(0deg);}
+    75%  {top: 200px; left: 268px; transform: rotate(45deg); border: 1px dashed red;}
+    100% {top: 200px; left: 20px; border: 1px dashed blue;}
 }
