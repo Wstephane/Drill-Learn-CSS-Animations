@@ -1,5 +1,7 @@
 #stage {
-  background-image: url(.images/css_animation_exercise_stage.png);
+  background-image: url(css_animation_exercise_1.png);
+  height: 600px;
+  width: 600px;
 }
 
 #hero {
@@ -7,4 +9,11 @@
   border: 1px dashed red;
   width: 75px;
   left: 10px;
+  position: relative;
+  animation: mymove 5s infinite;
+}
+
+@keyframes mymove {
+    0%   {left: 0px; top: 0px;}
+    100% {left: 525px; top: 0px;}
 }
