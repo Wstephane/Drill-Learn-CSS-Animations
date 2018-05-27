@@ -5,7 +5,7 @@ Projet ayant pour but d'apprendre le CSS
 
 Projet en solo fait par Stéphane Wyns à *BeCode*, en début de formation.
 
-Projet crée et terminer le le *25/05/18* dans le cadre d'un excercice de *CSS*.
+Projet crée et terminer le *25/05/18* dans le cadre d'un excercice de *CSS*.
 
 
 ## But du projet
@@ -27,7 +27,7 @@ J'ai appris en CSS :
 
 En html :
 
-* Faire attention à la sémantic et à l'indentation.
+* Faire attention à la sémantique et à l'indentation.
 
 -----------------------
 
@@ -39,7 +39,7 @@ En Git :
 
 Sur Github :
 
-* Deployer une page via Github.
+* Déployer une page via Github.
 
 ---------------------------
 
