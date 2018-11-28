@@ -33,7 +33,7 @@ En html :
 
 En Git :
 
-* Continuer prendre de bonne habitude de commit et de branch.
+* Continuer de prendre de bonne habitude de commit et de branch.
 
 -----------------------
 
